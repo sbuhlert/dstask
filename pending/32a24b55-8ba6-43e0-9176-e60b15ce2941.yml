@@ -1,5 +1,5 @@
 summary: Environment
-notes: ""
+notes: export EDITOR=nano
 tags: []
 project: dstask
 priority: P2
