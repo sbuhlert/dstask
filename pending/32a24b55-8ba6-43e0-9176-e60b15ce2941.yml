@@ -1,8 +1,9 @@
 summary: Environment
-notes: export EDITOR=nano
+notes: |
+  export EDITOR=nano
 tags: []
 project: dstask
-priority: P2
+priority: P3
 delegatedto: ""
 subtasks: []
 dependencies: []
